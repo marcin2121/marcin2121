@@ -47,6 +47,4 @@ I am always looking for environments where I can fully utilize the potential of 
 
 
 ---
-<div align="center">
-  <i>"I believe the developer of the future is the one who effectively collaborates with AI."</i>
-</div>
+
